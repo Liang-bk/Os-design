@@ -4,19 +4,31 @@
 
 **if 格式**
 if command/[compare]
+
 then
+
     command
+    
 else
+
     command
 fi
+
 可嵌套
+
 command如:echo "123"
 [compare]如:[ 1 -lt 2 ],其中-lt代表小于,括号之间的空格是必要的,否则报错
+
 **while 格式**
+
 while command/[compare]
+
 do
+
     command
+    
 done
+
 不支持嵌套
 
 - smsh.c

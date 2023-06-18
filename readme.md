@@ -1,4 +1,4 @@
-#smsh
+##smsh
 
 用法smsh.exe or smsh.exe file
 

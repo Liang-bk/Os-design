@@ -1,5 +1,7 @@
 #smsh
+
 用法smsh.exe or smsh.exe file
+
 **if 格式**
 if command/[compare]
 then
